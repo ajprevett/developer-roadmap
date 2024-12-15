@@ -6,13 +6,14 @@ In order to troubleshoot effectively, it is important to recognize and understan
 
 ## Basic Troubleshooting Process
 
-Following a systematic troubleshooting process is critical, regardless of the operating system. Here are the basic steps you might follow:
+Following a systematic troubleshooting process is critical, regardless of the issue. Here are the basic steps based on the CompTIA Troubleshooting Methodology:
 
-- **Identify the problem**: Gather information on the issue and its symptoms, and attempt to reproduce the problem, if possible. Take note of any error messages or unusual behaviors.
-- **Research and analyze**: Search for potential causes and remedies on relevant forums, web resources, or vendor documentation.
-- **Develop a plan**: Formulate a strategy to resolve the issue, considering the least disruptive approach first, where possible.
-- **Test and implement**: Execute the proposed solution(s) and verify if the problem is resolved. If not, repeat the troubleshooting process with a new plan until the issue is fixed.
-- **Document the process and findings**: Record the steps taken, solutions implemented, and results to foster learning and improve future troubleshooting efforts.
+- **Identify the Problem**: Start by gathering information to determine the issue. Ask the user about the symptoms, review logs, and identify recent changes that may have caused the problem.
+- **Establish a Theory of Probable Cause**: Based on the information gathered, create a list of potential causes for the problem. Start with the simplest and most obvious explanations.
+- **Test the Theory to Determine Cause**: Test the most likely cause first to see if it resolves the issue. If it doesn’t, move on to the next probable cause on your list.
+- **Establish a Plan of Action to Resolve the Problem and Implement the Solution**: Once you’ve identified the cause, develop a step-by-step plan to fix the issue while minimizing any impact on the system or users.
+- **Verify Full System Functionality and, If Applicable, Implement Preventive Measures**: After implementing the solution, confirm that the system is fully operational and the problem is resolved. If needed, apply preventive steps to avoid similar issues in the future.
+- **Document Findings, Actions, and Outcomes**: Record the details of the problem, the steps taken to resolve it, and the final outcome. This documentation helps with future troubleshooting and knowledge sharing.
 
 ## Isolating the Problem
 
@@ -40,5 +41,7 @@ Logs are records of system events, application behavior, and user activity, whic
 
 Learn more from the following resources:
 
-- [@article@How to identify 9 signs of Operating System.](https://bro4u.com/blog/how-to-identify-9-signs-of-operating-system)
-- [@article@Trouble shooting guide](https://cdnsm5-ss6.sharpschool.com/userfiles/servers/server_20856499/file/teacher%20pages/lindsay%20dolezal/it%20essentials/5.6.pdf)
+- [@article@Use a Troubleshooting Methodology for More Efficient IT Support](https://www.comptia.org/blog/troubleshooting-methodology)
+- [@article@How to identify 9 signs of Operating System Failure And Take Quick Action.](https://bro4u.com/blog/how-to-identify-9-signs-of-operating-system)
+- [@article@Basic Troubleshooting Process for Operating Systems](https://cdnsm5-ss6.sharpschool.com/userfiles/servers/server_20856499/file/teacher%20pages/lindsay%20dolezal/it%20essentials/5.6.pdf)
+- [@video@CompTIA Troubleshooting Model](https://www.youtube.com/watch?v=bdQplkceM4k&ab_channel=ITFreeTraining)
