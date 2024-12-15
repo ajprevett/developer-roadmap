@@ -5,4 +5,5 @@ Bluetooth is a short-range wireless technology standard used for exchanging data
 Learn more from the following resources:
 
 - [@article@Bluetooth in Cyber Security](https://www.zenarmor.com/docs/network-basics/what-is-bluetooth)
+- [@video@How does Bluetooth Work?](https://www.youtube.com/watch?v=1I1vxu5qIUM&ab_channel=BranchEducation)
 - [@video@Everything about Bluetooth Security](https://www.youtube.com/watch?v=i9mzl51ammA)
