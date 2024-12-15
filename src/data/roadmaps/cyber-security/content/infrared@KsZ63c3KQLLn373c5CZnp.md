@@ -6,3 +6,4 @@ Learn more from the following resources:
 
 - [@article@Infrared Definition](https://nordvpn.com/cybersecurity/glossary/infrared/?srsltid=AfmBOop7r5E41gRA5itc1NmwrS9qpjfiFnW6UKBwVLuu_MifaKdLHoTe)
 - [@article@Infrared](https://www.larksuite.com/en_us/topics/cybersecurity-glossary/infrared)
+- [@video@IR (Infrared Communication)](https://www.youtube.com/watch?v=vw6hBJ-24GM&ab_channel=SollaeSystems)
